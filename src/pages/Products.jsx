@@ -13,15 +13,14 @@ export default function Products() {
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            &quot;WorldWide&quot; is a term often used to denote something that
+            extends across the entire world or has a global reach. It can be
+            applied to various contexts, including:
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Encompasses the transportation of goods and products across
+            international borders. It involves logistics, shipping, and customs
+            processes to facilitate the movement of goods between countries.
           </p>
         </div>
       </section>

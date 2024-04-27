@@ -13,7 +13,6 @@ const formatDate = (date) =>
 function CityItem({ city }) {
   const { currentCity, deleteCity } = useCities();
   const { cityName, date, emoji, id, position } = city;
-
   function handleClick(e) {
     e.preventDefault();
     deleteCity(id);

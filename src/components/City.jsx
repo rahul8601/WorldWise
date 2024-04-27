@@ -38,12 +38,6 @@ function City() {
   const { cityName, emoji, date, notes } = currentCity;
 
   return (
-    // <>
-    //   <h1>City {id}</h1>
-    //   <p>
-    //     Position: {lat},{lng}
-    //   </p>
-    // </>
     <div className={styles.city}>
       <div className={styles.row}>
         <h6>City name</h6>

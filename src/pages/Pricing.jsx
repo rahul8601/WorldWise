@@ -14,9 +14,11 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            This phrase suggests that there is a globally applicable pricing
+            plan that is straightforward and easy to understand, available at a
+            fixed rate of $9 per month. It conveys the idea of a universal
+            pricing model that is accessible to customers worldwide, without any
+            complexities or hidden costs.
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
